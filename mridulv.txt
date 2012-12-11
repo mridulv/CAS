@@ -1,0 +1,255 @@
+<html>
+<head>
+<title>
+CAS
+</title>
+</head>
+<body bgcolor="#ffffff">
+<h1><center>COMPUTERISED ALGEBRAIC SYSTEM</center> </h1>
+<h2><center>How to give Input In CAS?????</center></h2>
+<ul>
+<h4><li><font size=6><b>Matrices</b></font></li></h4></br></br>
+<ul>
+</br></br><li><h4><u>Adding Two Matrices A and B<u></h4></li></br></br>
+<dl>
+<dt><b><u><font size=4>Text box1:</font></u></b></dt><dd><font size=5>The first text box contain a matrix whose input is given in the form  [[ a[0][0], a[0][1], a[0][2]....] , [ a[1][0], a[1][1], a[1][2]....] .... ]</font></dd>
+<dt><b><u><font size=4>Text box2:</font></u></b></dt><dd><font size=5>The second text box contain a matrix whose input is given in the form  [[ a[0][0], a[0][1], a[0][2]....] , [ a[1][0], a[1][1], a[1][2]....] .... ]</br></br></font></dd>
+<dd></br><font size=5></br></font></dd>
+</dl>
+<li><h4><u>Subtracting Two Matrices A and B<u></h4></li></br></br>
+<ul>
+<li><b><u><font size=4>Text box1:</font></u></b></li><font size=5>The first text box contain a matrix whose input is given in the form  [[ a[0][0], a[0][1], a[0][2]....] , [ a[1][0], a[1][1], a[1][2]....] .... ]</font>
+<li><b><u><font size=4>Text box2:</font></u></b></li><font size=5>The second text box contain a matrix whose input is given in the form  [[ a[0][0], a[0][1], a[0][2]....] , [ a[1][0], a[1][1], a[1][2]....] .... ]</font>
+</ul>
+</br></br><li><h4><u>Multiplication of Two matrices<u></h4></li></br></br>
+<ul>
+<li><b><u><font size=4>Text box1:</font></u></b></li><font size=5>The first text box contain a matrix whose input is given in the form  [[ a[0][0], a[0][1], a[0][2]....] , [ a[1][0], a[1][1], a[1][2]....] .... ]</font>
+<li><b><u><font size=4>Text box2:</font></u></b></li><font size=5>The second text box contain a matrix whose input is given in the form  [[ a[0][0], a[0][1], a[0][2]....] , [ a[1][0], a[1][1], a[1][2]....] .... ]</font>
+</ul>
+</br></br><li><h4><u>Solving The Eqn. Ax=B where A and B are matrices<u></h4></li></br></br>
+<ul>
+<li><b><u><font size=4>Text box1:</font></u></b></li><font size=5>It contains A matrix in the same format as told above</font>
+<li><b><u><font size=4>Text box2:</font></u></b></li><font size=5>It contains B matrix in the same format as told above</font>
+</ul>
+</br></br><li><h4><u>Evaluating the inverse of a matrix<u></h4></li></br></br>
+<ul>
+<li><b><u><font size=4>Text box1:</font></u></b></li><font size=5>It contains A matrix in the same format but one thing should be kept in mind that the square matrix is invertible and </font>
+<li><b><u><font size=4>Text box2:</font></u></b></li><font size=5>This text box should be empty as its contents are of no use</font>
+</ul>
+</br></br><li><h4><u>Evaluating the Determinant of a square Matrix<u></h4></li></br></br>
+<ul>
+<li><b><u><font size=4>Text box1:</font></u></b></li><font size=5>This text box should contain the matrix in the above told format but the matrix should be a square one.</font> </br></br>
+<li><b><u><font size=4>Text box2:</font></u></b></li><font size=5>This text box should be empty as its contents are of no use</font>
+</ul>
+</br></br><li><h4><u>Evaluating rank of a matrix<u></h4></li></br></br>
+<ul>
+<li><b><u><font size=4>Text box1:</font></u></b></li><font size=5>It contains A matrix in the same old format </font>
+<li><b><u><font size=4>Text box2:</font></u></b></li><font size=5>This text box should be empty as its contents are of no use</font>
+</ul>
+</br></br><li><h4><u>Gauss eliminated matrix<u></h4></li></br></br>
+<ul>
+<li><b><u><font size=4>Text box1:</font></u></b></li><font size=5>It contains A matrix in the same old format </font>
+<li><b><u><font size=4>Text box2:</font></u></b></li><font size=5>This text box should be empty as its contents are of no use</font>
+</ul>
+</br></br><li><h4><u>L,U,D of a matrix<u></h4></li></br></br>
+<ul>
+<li><b><u><font size=4>Text box1:</font></u></b></li><font size=5>It contains A matrix in the same old format </font>
+<li><b><u><font size=4>Text box2:</font></u></b></li><font size=5>This text box should be empty as its contents are of no use</font>
+</ul>
+</br></br><li><h4><u>Transpose of a matrix<u></h4></li></br></br>
+<ul>
+<li><b><u><font size=4>Text box1:</font></u></b></li><font size=5>It contains A matrix in the same old format </font>
+<li><b><u><font size=4>Text box2:</font></u></b></li><font size=5>This text box should be empty as its contents are of no use</font>
+</ul>
+</br></br><li><h4><u>Q,R of a matrix<u></h4></li></br></br>
+<ul>
+<li><b><u><font size=4>Text box1:</font></u></b></li><font size=5>It contains A matrix in the same old format </font>
+<li><b><u><font size=4>Text box2:</font></u></b></li><font size=5>This text box should be empty as its contents are of no use</font>
+</ul>
+</br></br><li><h4><u>Eigenvalues of a martix<u></h4></li><font size=5>It contains A matrix in the same old format </font>
+<ul>
+<li><b><u><font size=4>Text box1:</font></u></b></li></br></br>
+<li><b><u><font size=4>Text box2:</font></u></b></li><font size=5>This text box should be empty as its contents are of no use</font>
+</ul>
+</br></br><li><h4><u>EigenVector of a matrix<u></h4></li></br></br>
+<ul>
+<li><b><u><font size=4>Text box1:</font></u></b></li><font size=5>It contains A matrix in the same old format </font>
+<li><b><u><font size=4>Text box2:</font></u></b></li><font size=5>This text box should be empty as its contents are of no use</font>
+</ul>
+</ul>
+<h3><li>Polynomials</li></h3></br></br>
+<ul>
+</br></br><li><h4><u>Adding Two polyomials f(x) and g(x)<u></h4></li></br></br>
+<ul>
+<li><b><u><font size=4>Text box1:</font></u></b></li><font size=5>This text box should contain the polynomial int he format: a0 + a1x^1 + a2x^3 + a3x^4 .......</font>
+<li><b><u><font size=4>Text box2:</font></u></b></li><font size=5>This text box should contain the polynomial int he format: a0 + a1x^1 + a2x^3 + a3x^4 .......</font>
+</ul>
+</br></br><li><h4><u>Subtracting Two polynomials f(x) and g(x)<u></h4></li></br></br>
+<ul>
+<li><b><u><font size=4>Text box1:</font></u></b></li><font size=5>This text box should contain the polynomial int he format: a0 + a1x^1 + a2x^3 + a3x^4 .......</font>
+<li><b><u><font size=4>Text box2:</font></u></b></li><font size=5>This text box should contain the polynomial int he format: a0 + a1x^1 + a2x^3 + a3x^4 .......</font>
+</ul>
+</br></br><li><h4><u>multiplying two polynomials f(x) and g(x)<u></h4></li></br></br>
+<ul>
+<li><b><u><font size=4>Text box1:</font></u></b></li><font size=5>This text box should contain the polynomial int he format: a0 + a1x^1 + a2x^3 + a3tx^4 .......</font>
+<li><b><u><font size=4>Text box2:</font></u></b></li><font size=5>This text box should contain the polynomial int he format: a0 + a1x^1 + a2x^3 + a3x^4 .......</font>
+</ul>
+</br></br><li><h4><u>Dividing f(x) and g(x) and taking out the remainder and Quotient<u></h4></li></br></br>
+<ul>
+<li><b><u><font size=4>Text box1:</font></u></b></li><font size=5>This text box should contain the polynomial int he format: a0 + a1x^1 + a2x^3 + a3x^4 .......</font>
+<li><b><u><font size=4>Text box2:</font></u></b></li><font size=5>This text box should contain the polynomial int he format: a0 + a1x^1 + a2x^3 + a3x^4 .......</font>
+</ul>
+</ul>
+<h3><li>Differentiation</li></h3></br></br>
+<ul>
+</br></br><li><h4><u>Finding out the derivative at a point<u></h4></li></br></br>
+<ul>
+<li><b><u><font size=4>Text box1:</font></u></b></li><font size=5>This text box contains a expression whose derivative is to be found at a point</font>
+<li><b><u><font size=4>Text box2:</font></u></b></li><font size=5>This text box contiains the point where the derivative is to be found in the format:[a,b]</font>
+</ul>
+</br></br><li><h4><u>Symbolic Differentiation<u></h4></li></br></br>
+<ul>
+<li><b><u><font size=4>Text box1:</font></u></b></li><font size=5>This text box contains a expression whose derivative is to be found wrt to a variable</font>
+<li><b><u><font size=4>Text box2:</font></u></b></li><font size=5>this text box contains the variable wrt to which derivative is to be found</font></br></br> </br></br>
+</ul>
+</br></br><li><h4><u>Directional Derivative<u></h4></li></br></br>
+<ul>
+<li><b><u><font size=4>Text box1:</font></u></b></li><font size=5>This text box contains a expression whose Directional derivative is to be found</font>
+<li><b><u><font size=4>Text box2:</font></u></b></li><font size=5>This text box contains the point and the direction in which the directional derivative is to be found in the format:[[a0,a1,a2,a4..],[b0,b1,b2.....]] in which the a's are coordinates of the point and b's are the coordinates of the direction</font>
+</ul>
+</br></br><li><h4><u>Finding out the Laplacian of an equation<u></h4></li></br></br>
+<ul>
+<li><b><u><font size=4>Text box1:</font></u></b></li><font size=5>This text box contains the Expression whose Laplacian is to be evaluated</font>
+<li><b><u><font size=4>Text box2:</font></u></b></li><font size=5>This text box should be empty as its contents are of no use</font>
+</ul>
+</ul>
+<h3><li>Integral calculus</li></h3></br></br>
+<ul>
+</br></br><li><h4><u>Single Dimensional Integration<u></h4></li></br></br>
+<ul>
+<li><b><u><font size=4>Text box1:</font></u></b></li><font size=5>This text box contains the Expression whose Integration is to be evaluated</font>
+<li><b><u><font size=4>Text box2:</font></u></b></li><font size=5>This text box contains the limits in the format:[a0,a1] where a0 is the lower limit and a1 is the upper limit and one imp.point for infinity use inf or -inf</font>
+</ul>
+</br></br><li><h4><u>Multi Dimensional Integration<u></h4></li></br></br>
+<ul>
+<li><b><u><font size=4>Text box1:</font></u></b></li><font size=5>This text box contains the Expression whose Integration is to be evaluated</font>
+<li><b><u><font size=4>Text box2:</font></u></b></li><font size=5>This text box contains the limits of each variable in the format:[[a0,a1],[b0,b1],[c0,c1],......] where a0 and a1 are limits for the first variable ,b0 and b1 are the limits for the second variable and so on..... </font>
+</ul>
+</br></br><li><h4><u>Ordinary Differential Equation<u></h4></li></br></br>
+<ul>
+<li><b><u><font size=4>Text box1:</font></u></b></li><font size=5>This text box contains the differential equation which is to be solved IMP: the diff.eqn. should be of the form f'=g(x) or f''=g(x) +f' and so on...</font>
+<li><b><u><font size=4>Text box2:</font></u></b></li><font size=5>This text box contains the x at which f(x) is to be computed and the initial conditions at a particular point in the format:[a0,a1,a2...] where the a0 is the x at which y is to be computed and a1 is the initial x ,a2 is the initial f ,a3 is the initial f' and so on... 
+</font>
+</ul>
+</br></br><li><h4><u>Partial Differential Equation<u></h4></li></br></br>
+<ul>
+<li><b><u><font size=4>Text box1:</font></u></b></li><font size=5>This text box contains the partial differential equation to be solved</font>
+<li><b><u><font size=4>Text box2:</font></u></b></li></br></br>
+</ul>
+</ul>
+<h3><li>Graph Plotting</li></br><font size=5>The first text box contains f(x) as a function of x and the second text box contains g(x) as a function of x and the graph would be plotted as f(x) vs g(x).One thing to note is that in the input for giving intervals specify the interval in the format[a,b] where a and b are the lower and upeer limits</font></br></br></h3>
+</br>
+</br>
+<h3><li>Statistics</li></h3></br></br>
+<ul>
+</br></br><li><h4><u>Least Square of a group of points<u></h4></li></br></br>
+<ul>
+<li><b><u><font size=4>Text box1:</font></u></b></li><font size=5>This text box the group of points whose Least square has to be found in the format:[[a0,a1],[b0,b1],[c0,c1],.........] where a0 and a1 are the coordinates of the first point and so on...</font>
+<li><b><u><font size=4>Text box2:</font></u></b></li><font size=5>This text box should be empty as its contents are of no use</font>
+</ul>
+</br></br><li><h4><u>Plane fit<u></h4></li></br></br>
+<ul>
+<li><b><u><font size=4>Text box1:</font></u></b></li><font size=5>This text box the group of points whose best fitting curve of plane has to be found in the format:[[a0,a1],[b0,b1],[c0,c1],.........] where a0 and a1 are the coordinates of the first point and so on...</font>
+<li><b><u><font size=4>Text box2:</font></u></b></li><font size=5>This text box should be empty as its contents are of no use</font>
+</ul>
+</br></br><li><h4><u>Exponential Curve fitting<u></h4></li></br></br>
+<ul>
+<li><b><u><font size=4>Text box1:</font></u></b></li><font size=5>This text box the group of points whose best fitting exponential curve has to be found in the format:[[a0,a1],[b0,b1],[c0,c1],.........] where a0 and a1 are the coordinates of the first point and so on...</font>
+<li><b><u><font size=4>Text box2:</font></u></b></li><font size=5>This text box should be empty as its contents are of no use</font>
+</ul>
+</br></br><li><h4><u>Logarithmic Curve fitting<u></h4></li></br></br>
+<ul>
+<li><b><u><font size=4>Text box1:</font></u></b></li><font size=5>This text box the group of points whose best fitting logarithmic curve has to be found in the format:[[a0,a1],[b0,b1],[c0,c1],.........] where a0 and a1 are the coordinates of the first point and so on...</font>
+<li><b><u><font size=4>Text box2:</font></u></b></li><font size=5>This text box should be empty as its contents are of no use</font>
+</ul>
+</br></br><li><h4><u>Spline Interfolation<u></h4></li></br></br>
+<ul>
+<li><b><u><font size=4>Text box1:</font></u></b></li><font size=5>This text box the group of points whose Spline interfolation has to be found in the format:[[a0,a1],[b0,b1],[c0,c1],.........] where a0 and a1 are the coordinates of the first point and so on...</font>
+<li><b><u><font size=4>Text box2:</font></u></b></li><font size=5>This text box should be empty as its contents are of no use</font>
+</ul>
+</br></br><li><h4><u>Spearsman<u></h4></li></br></br>
+<ul>
+<li><b><u><font size=4>Text box1:</font></u></b></li><font size=5>This text box the group of points whose Rank corelltion by Spearsman coefficient has to be found in the format:[[a0,a1],[b0,b1],[c0,c1],.........] where a0 and a1 are the coordinates of the first point and so on...</font>
+<li><b><u><font size=4>Text box2:</font></u></b></li><font size=5>This text box should be empty as its contents are of no use</font>
+</ul>
+</br></br><li><h4><u>Pearson<u></h4></li></br></br>
+<ul>
+<li><b><u><font size=4>Text box1:</font></u></b></li><font size=5>This text box the group of points whose Rank corelltion by Pearson coefficient has to be found in the format:[[a0,a1],[b0,b1],[c0,c1],.........] where a0 and a1 are the coordinates of the first point and so on...</font>
+<li><b><u><font size=4>Text box2:</font></u></b></li><font size=5>This text box should be empty as its contents are of no use</font>
+</ul>
+</br></br><li><h4><u>Kindlestau<u></h4></li></br></br>
+<ul>
+<li><b><u><font size=4>Text box1:</font></u></b></li><font size=5>This text box the group of points whose Rank corelltion by Kindlestau coefficient has to be found in the format:[[a0,a1],[b0,b1],[c0,c1],.........] where a0 and a1 are the coordinates of the first point and so on...</font>
+<li><b><u><font size=4>Text box2:</font></u></b> </li><font size=5>This text box should be empty as its contents are of no use</font>
+</ul>
+</ul>
+<h3><li>Playing With Numbers</li></h3></br></br>
+<ul>
+</br></br><li><h4><u>Hcf<u></h4></li></br></br>
+<ul>
+<li><b><u><font size=4>Text box1:</font></u></b></li><font size=5>Enter the fist no.</font>
+<li><b><u><font size=4>Text box2:</font></u></b></li><font size=5>Enter the second no.</font>
+</ul>
+</br></br><li><h4><u>Lcm<u></h4></li></br></br>
+<ul>
+<li><b><u><font size=4>Text box1:</font></u></b></li><font size=5>Enter the first no.</font>
+<li><b><u><font size=4>Text box2:</font></u></b></li><font size=5>Enter the second no.</font>
+</ul>
+</br></br><li><h4><u>Prime Or Not<u></h4></li></br></br>
+<ul>
+<li><b><u><font size=4>Text box1:</font></u></b></li><font size=5>Enter the no. which is to be checked</font>
+<li><b><u><font size=4>Text box2:</font></u></b> </li><font size=5>This text box should be empty as its contents are of no use</font>
+</ul>
+</br></br><li><h4><u>Sorting<u></h4></li></br></br>
+<ul>
+<li><b><u><font size=4>Text box1:</font></u></b></li><font size=5>Enter the array of no. which have to be sorted</font>
+<li><b><u><font size=4>Text box2:</font></u></b></li><font size=5>This text box should be empty as its contents are of no use</font>
+</ul>
+</ul>
+<h3><li>Evaluating Expressions</li></h3></br></br>
+<ul>
+</br></br><li><h4><u>Roots of an equation by providing the range of x(provides multiple roots)<u></h4></li></br></br>
+<ul>
+<li><b><u><font size=4>Text box1:</font></u></b></li><font size=5>This text box contains the expression whose roots have to be evaluated</font>
+<li><b><u><font size=4>Text box2:</font></u></b></li><font size=5>This text box contains the range of x in which the roots have to be found</font>
+</ul>
+</br></br><li><h4><u>Roots of an equation by providing the range of x(provides single root)<u></h4></li></br></br>
+<ul>
+<li><b><u><font size=4>Text box1:</font></u></b></li><font size=5>This text box contains the expression whose roots have to be evaluated</font>
+<li><b><u><font size=4>Text box2:</font></u></b></li><font size=5>This text box contains the range of x in which the roots have to be found</font>
+</ul>
+</br></br><li><h4><u>Value of an Expression At a Point<u></h4></li></br></br>
+<ul>
+<li><b><u><font size=4>Text box1:</font></u></b></li><font size=5>This text box contains the Expression whose value has to be found at a point</font>
+<li><b><u><font size=4>Text box2:</font></u></b></li><font size=5>This text contains the x's at which the expression is to be evaluated [a0,a1,a2....] where a0 is the first x ,a2 is the second x and so on.....</font>
+</ul>
+</ul>
+<h3><li>Optimization</li></h3></br></br>
+<ul>
+</br></br><li><h4><u>Maximum of an Expression in a given Range of x<u></h4></li></br></br>
+<ul>
+<li><b><u><font size=4>Text box1:</font></u></b></li><font size=5>This text box contains the Expression whose maximum value is to be found in a given interval</font>
+<li><b><u><font size=4>Text box2:</font></u></b></li><font size=5>This text box contains the ranges of x in which maximum of the function is to be evaluated in the format:[[a0,a1],[b0,b1],[c0,c1]......] where ao and a1 are the first range of x for which the maximum is to be found and b0 and b1 are the second range of x for which maximum is to be found</font>
+</ul>
+</br></br><li><h4><u>Minimum of an Expression in a given Range of x<u></h4></li></br></br>
+<ul>
+<li><b><u><font size=4>Text box1:</font></u></b></li><font size=5>This text box contains the Expression whose minimum value is to be to be found in a given interval</font>
+<li><b><u><font size=4>Text box2:</font></u></b></li><font size=5>This text box contains the ranges of x in which minimum of the function is to be evaluated in the format:[[a0,a1],[b0,b1],[c0,c1]......] where ao and a1 are the first range of x for which the minimum is to be found and b0 and b1 are the second range of x for which minimum is to be found</font>
+</ul>
+</ul>
+</ul>
+
+
+</body>
+</html>
+
